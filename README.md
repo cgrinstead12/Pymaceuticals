@@ -31,27 +31,28 @@ Your legends should not be overlaid on top of any data.
 Your bar graph should indicate tumor growth as red and tumor reduction as green.
 It should also include a label with the percentage change for each bar. You may want to consult this tutorial for relevant code snippets.
 
-![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/TumorResonsetoTreatment.png)
-
 **Tumor Response to Treatment**
 
 The initial analysis was narrowed down to the drug treaments Capomulin, Infubinol, Ketapril and a placebo. Gradually over time, each drug was tested for increases in tumor volume measured in (mm3). During the 45 day trial, the only drug to show a steady decrease in tumor volume was Capomulin, where the tumor volume decrease by about 8 mm3. The other two drugs, Infubinol and Ketapril, did not show any decrease in tumor volume and when compared to the placebo suggest they did not have any effect on the mice they were tested on.
 
-![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/Metastic%20Spread%20During%20Treatment.png)
+![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/TumorResonsetoTreatment.png)
 
 **Metastic Spread During Treatment**
 
 The drugs were then analyzed for metastic spread. The metastic sites identified during the trial show Capomulin as the only succcessful treament and the other two performing the same if not worse as the placebo. Capomulin's results also show a lower margin of error which indicates its ability to perform more consistently. 
 
-![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/Survival%20During%20Treatment.png)
+![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/Metastic%20Spread%20During%20Treatment.png)
 
 **Survival During Treatment**
 
 Each drug was administered to 25 mice over the trial which was previously stated of 45 days. The results indiciate that the only successful drug at preventing deaths was the drug Capomulin where only three mice did not survive until the end of the trial. The other drugs Infubinol and Ketapril performed much worse and roughly 10 mice did not survive until the end of the trial. 
 
-![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/Tumor%20Change%20Over%2045%20Day%20Treatment.png)
+![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/Survival%20During%20Treatment.png)
 
 **Change Over 45 Day Treatment**
 
 The final analysis perform visualizes in a bar chart the volume percentage change over the 45 day trial. Again, the drug Capomulin performed signficantly better and helped reduce tumor volume by about 19%. The other two drugs and the placebo were unsuccessful at reducing tumor volume as tumor volumes in mice tested grew by about 50%. 
+
+![alt text](https://github.com/cgrinstead12/Pymaceuticals/blob/master/Images/Tumor%20Change%20Over%2045%20Day%20Treatment.png)
+
 
